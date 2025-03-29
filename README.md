@@ -40,30 +40,12 @@ Excel for data preparation and cleaning.
 DAX & Power Query for data modeling and transformation.
 
 📸 Screenshots
+![image](https://github.com/user-attachments/assets/3c7b5215-0439-4e08-87b8-e9a3d0a3d431)
+![image](https://github.com/user-attachments/assets/e8348182-99bf-48a2-93d3-c3dbe4b0a801)
+![image](https://github.com/user-attachments/assets/6badd658-7ffe-41c3-89cc-3904058349da)
+![image](https://github.com/user-attachments/assets/792dc9b5-db45-4482-b220-8d3539dc8e34)
 
 
-
-
-
-🔗 Live Report (if available)
-
-View Power BI Report
-
-📢 Author & Acknowledgments
-
-Special thanks to Mohamed El-Said for his guidance throughout the learning journey. This project is part of my data analytics learning experience.
-
-💡 How to Use This Repository
-
-Clone the repository:
-
-git clone https://github.com/your-username/Cookies-Sales-Analysis.git
-
-Open the .pbix file in Power BI Desktop.
-
-Review the dashboards and insights.
-
-Experiment with the data and build additional reports.
 
 ✨ Let's Connect!
 
