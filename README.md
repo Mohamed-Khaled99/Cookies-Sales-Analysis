@@ -49,4 +49,4 @@ DAX & Power Query for data modeling and transformation.
 
 ✨ Let's Connect!
 
-If you have any suggestions or feedback, feel free to connect with me on LinkedIn! 😊
+If you have any suggestions or feedback, feel free to connect with me on LinkedIn!  https://www.linkedin.com/in/mohamed-khaled-765b06194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTpuI7txGR2%2B8g%2BJw4baEpw%3D%3D 😊
